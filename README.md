@@ -1,2 +1,2 @@
-# fancy-slider
+#Slider-bugs-resolve
 # Assignment-6
